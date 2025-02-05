@@ -50,7 +50,5 @@
 </p>
 
 ## 🔥 Streak Data:
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smshakil6907&theme=radical" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=smshakil6907&theme=dark" alt="GitHub Streak" /></a>
 
