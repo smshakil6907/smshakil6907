@@ -49,17 +49,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=smshakil6907&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-## 🚀 Top Languages Used:
+## 🔥 Streak Data:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smshakil6907&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smshakil6907&theme=radical" alt="GitHub Streak" />
 </p>
-
-## 🔥 Contribution Streak Data
-
-| Date       | Contributions | Streak |
-|------------|--------------|--------|
-| 2025-02-01 | ✅           | 1 Day  |
-| 2025-02-02 | ✅           | 2 Days |
-| 2025-02-03 | ❌           | 0 Days |
-| 2025-02-04 | ✅           | 1 Day  |
 
