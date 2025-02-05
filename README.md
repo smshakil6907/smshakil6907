@@ -49,6 +49,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=smshakil6907&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
+## 🚀 Top Languages Used:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smshakil6907&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ## 🔥 Streak Data:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=smshakil6907&theme=dark" alt="GitHub Streak" /></a>
 
